@@ -4,26 +4,8 @@
     {
       "package": "COpenSSL",
       "reason": null,
-      "repositoryURL": "https://github.com/PerfectlySoft/Perfect-COpenSSL-Linux.git",
-      "version": "2.0.4"
-    },
-    {
-      "package": "LinuxBridge",
-      "reason": null,
-      "repositoryURL": "https://github.com/PerfectlySoft/Perfect-LinuxBridge.git",
-      "version": "2.0.2"
-    },
-    {
-      "package": "MySQL",
-      "reason": null,
-      "repositoryURL": "https://github.com/PerfectlySoft/Perfect-MySQL.git",
-      "version": "2.1.3"
-    },
-    {
-      "package": "mysqlclient",
-      "reason": null,
-      "repositoryURL": "https://github.com/PerfectlySoft/Perfect-mysqlclient-Linux.git",
-      "version": "2.0.1"
+      "repositoryURL": "https://github.com/PerfectlySoft/Perfect-COpenSSL.git",
+      "version": "2.0.6"
     },
     {
       "package": "PerfectHTTP",
@@ -42,12 +24,6 @@
       "reason": null,
       "repositoryURL": "https://github.com/PerfectlySoft/PerfectLib.git",
       "version": "2.0.11"
-    },
-    {
-      "package": "PerfectMustache",
-      "reason": null,
-      "repositoryURL": "https://github.com/PerfectlySoft/Perfect-Mustache.git",
-      "version": "2.1.0"
     },
     {
       "package": "PerfectNet",
